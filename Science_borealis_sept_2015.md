@@ -4,9 +4,9 @@ There was a time in my (Auriel's) life, well really there was this entire beginn
 
 The problem is, my mother was right (_again_), and math is super useful. But it took me till I was in graduate school to really understand why and to embrace statistics as something I wanted to learn more about on my own.
 
-In my first year of graduate school I attended a week long statistics workshop on occupancy modeling, and I was sitting there listening to someone with a PhD in Statistics talk about Statistics and I loved it. That was when it really hit me that my outlook on math and statisics had taken a drastic turn. 
+In my first year of graduate school I attended a week long statistics workshop on occupancy modeling, and I was sitting there listening to someone with a PhD in statistics talk about statistics and I loved it. That was when it really hit me that my outlook on math and statisics had taken a drastic turn. 
 
-Statistics were really useful (espcially when you can stop doing them by hand) and I was hooked. 18 year old me would laugh, long and hard, at this idea, but statistics and I now spend part of most working days together analyzing data, writing code, or working on other parts of the data crunching process. 
+Statistics were really useful (espcially when you can stop doing them by hand) and I was hooked. 18-yea-old me would laugh, long and hard, at this idea, but statistics and I now spend part of most working days together analyzing data, writing code, or working on other parts of the data crunching process. 
 
 Currently I spend quite a bit of time doing hierarchical modeling with an R package 'unmarked'. These models allow us to take survey data of birds (in my case these awesome wetland birds called rails) and model both abundance (our end goal) and detection probability (the probability of detecting a bird, given that it is present) which provides more accurate measures of abundance in relation to different variables (like water depth in the wetland, or observer performing the survey).
 
