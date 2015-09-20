@@ -18,19 +18,17 @@ The most recent step in my continuing journey with statistics was deciding to pu
 
 ## Andrew's words
 
+-- messages: I'm a a field ecologist who programs: ---
+
 I first saw real quantitative ecology in a small shack, on a deserted island hidden in the Atlantic fog.
 
-I was an undergraduate, and this was my first real field course: two weeks on Bon Portage Island, off the coast of Nova Scotia. As in all field courses, we did lots of group fieldwork -- counting periwinkles and _Fucus_ sp., counting birds, measuring plants. As we were preparing our final projects, Professor Dave Shutler sat in a small shed behind the main classroom. Each group would troop down the hill to where he sat in the fog, and read out the data from our smudged yellow Write-in-the-Rain notebooks. He'd type the numbers in, hit a few buttons, and run something called a "GLM".
+I was an undergraduate, and this was my first real field course: two weeks on [Bon Portage Island](http://www.acadiau.ca/~dshutler/PIsland.html), off the coast of Nova Scotia. As in all field courses, we did lots of group fieldwork -- counting periwinkles and _Fucus_ sp., counting birds, measuring plants. As we were preparing our final projects, Professor Dave Shutler sat in a small shed behind the main classroom. Each group would troop down the hill to where he sat in the fog, and read out the data from our smudged yellow Write-in-the-Rain notebooks. He'd type the numbers in, hit a few buttons, and run something called a "GLM" (a Generalized Linear Model).
 
-For the first time, stastics wasn't some vague, plodding subject about flipping coins. Statistics was deeply connected to the animals, plants and environment of this small island. 
+In that moment, statistics wasn't some vague, plodding subject about flipping coins. Statistics was deeply connected to the animals, plants and environment of this small island. At the same time it was still very mysterious to me, my knowledge of it was small and indistinct as that tiny island in the Atlantic fog. 
 
-* love of programming -- Jenny Bryan -- stats course website.
+Then, during my Masters, I met a tropical ecologist named Cam Webb, who introduced me to something called "R". R is a programming language that specializes in working with data and statistics. I loved it. It's an excellent tool for a field ecologist (or any scientist): freely available, flexible, and with a huge community to help a beginner learn. I switched to R for doing all the statistics and plots for my Masters.  But it wasn't until my PhD that I actually took a live class in R -- this was from [Software Carpentry](https://software-carpentry.org/), an organization that helps scientists teach _other_ scientists how to program. I learned a lot of good R programming from Software Carpentry, and this last year I finally signed up to become an instructor! That's how I met my fellow editor, Auriel Fournier!
 
-* github
+Right now I am studying the community of invertebrates that lives inside plants called bromeliads. Bromeliads are found all throughout the Neotropics. The collect rainwater in their leaves, and lots of small flies, beetles and damselflies live in these tiny pools of water. They're really great for studying ecology in small, discrete habitats. To understand them, I spend a lot of time in R doing multivariate statistics with [vegan], generalized linear models (no longer _completely_ mysterious!) and randomization tests. The latter is an important way to think about patterns we see in ecological communities. For example, if you find that some species are only found in large habitats, does that mean that they actually *prefer* large habitats? It could be because larger habitats have more individual animals, and therefore a bigger chance of containing any specific species. Randomization tests let you ask what patterns you would see in your data if there were "no biology" -- in this case, no preference for bromeliads of a different size!
 
-* influence of Cam Webb - link to post?
-
-* Teaching Software Carpentry, where I met my fellow-blogger (and colleage in quantitative ecology) Auriel Fournier!
-
-
+I'm still very much on the journey of learning about statistics -- and this system (I'm actually in Brazil studying bromeliads now!). And I'm really looking forward to sharing my enthusiasm for statistics, math and programming with all of you!
 
