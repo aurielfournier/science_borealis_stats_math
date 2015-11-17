@@ -2,7 +2,6 @@
 (not sold on this title, but its a title)
 By: Andrew MacDonald and Auriel Fournier
 
-
 Most of us hear statistics on a daily basis, be it a weather prediction (30% chance of rain) or a new study on the health risks of coffee or bacon (it really does cause cancer thsi time!). In both these cases we are provided with soem numbers, and those numbers are often surroudned by catchy writing that doesn't actually interpret the numbers as a statistic. 
 
 Humans are pretty bad at evaluating risk as it is anyway, much less when we don't know how to interpret the data that is set before us. 
@@ -17,13 +16,17 @@ The World Health Organization (WHO) recently released a report that has been por
 
 (possibly link to Terry McGlyn's podcast that mentions the bacon stuff, they have a good discussion of the issue for folks who want to hear more about it)
 
+[risk of flying vs driving]
+
 Many people experience great anxiety about flying, some of this is related to the lack of control involved with flying, others because they are afraid that it is not safe. This is despite the fact that you are more likely to die driving a car within five minutes of your house then you are flying, and most people fly so infreuquently that their chance of dying while flying is essentially zero. Humans are bad at evaluating risk, and coverage by the media does not help since plane crashes are often news regionally if not nationally where as a car crash that kills the driver might not even make the newspaper. 
 
 when evaluating how safe something is a few things needed to be considered. We need to consider the probability of a bad outcome (either injury, death, or otherwise) and then also consider how frequently we will be exposed to that risk. If you only fly one a year, your exposure to that risk is very low, making your risk of dying while flying lower then that of a person who flies for work every week. 
 
+[why interpretation is important]
+
 Often there is talk of statistics being a lot of hand waving and lies. While there are many examples of the mis-use of statistics when evaluating risk much of the spin comes in the evaluation of 'what is acceptable levels of risk' which is not a mathematical question. That is a human question, While mathematics and statistics can help us understand the risks associated with different decisions they cannot make those decisions for us, we have to decide what level of risk we are ok with. 30% chance of rain, sure, I'll risk it and not take my raincoat since the worst that can happen is getting wet. 30% chance of the surgery killing me, I'll think about it longer then I did the rain coat, thats for sure, since the consequences are greater. 
 
-## Correlation vs Causation
+[correlation vs Causation]
 
 Another issue that often results in misinterpreation of data or results is the confusion of correlation and causation. If two things are correlated they follow a pattern.
 
