@@ -18,7 +18,7 @@ The World Health Organization (WHO) recently announced something that has been p
 
 ## Risk of Flying vs Driving
 
-Many people experience great anxiety about flying, some of this is related to the lack of control involved with flying, others because they are afraid that it is not safe (chance of dying 1 in 11 million). This is despite the fact that you are more likely to die driving a car (1 in 5,000). Flying more does not increase the chance of dying on any given flight (still 1 in 11 million). Though if you fly every day the cumulative probability will increase gradually overtime but will still remain quite low. Humans are bad at evaluating risk, and coverage by the media does not help since plane crashes are often news regionally if not nationally where as a car crash that kills the driver might not even make the newspaper. 
+Many people experience great anxiety about flying, some of this is related to the lack of control involved with flying, others because they are afraid that it is not safe (chance of dying 1 in 11 million (NEED CITATION)). This is despite the fact that you are more likely to die driving a car (1 in 5,000 (NEED CITATION)). Flying more does not increase the chance of dying on any given flight (still 1 in 11 million). Though if you fly every day the cumulative probability will increase gradually overtime but will still remain quite low. Humans are bad at evaluating risk, and coverage by the media does not help since plane crashes are often news regionally if not nationally where as a car crash that kills the driver might not even make the newspaper. 
 
 When evaluating how safe something is a few things needed to be considered. We need to consider the probability of a bad outcome, we need to consider how bad that outcome actually is (this isn't a mathematical calculation, but a personal or societal decision) and then also consider how frequently we will be exposed to that risk. If you only fly one a year, your exposure to that risk is very low, making your cumulative risk of dying while flying lower then that of a person who flies for work every week. 
 
@@ -34,4 +34,11 @@ For instance as per capita ice cream consumption increases so does per capita ra
 
 While these two things may increase together that does not mean that eating ice cream makes you want to wear shorts, or vice versa (in this case the argument could probably be made that increasing temperatures in the summer could cause either of these).
 
-There are many many variables that are correlated that does not mean they are actually causing the other one to change, this is one of the big mistakes that is often made when interpreting data and we will cover it in more depth in a future post. 
+There are many many variables that are correlated that does not mean they are actually causing the other one to change, this is one of the big mistakes that is often made when interpreting data.
+
+## How to interpret stats
+
+First, a statistic without a citation should be treated with EXTREME caution, unless you are reading the study that generated those data. 
+
+Second, is this correlation or causation? 
+
