@@ -1,5 +1,7 @@
 # Why is there error in statistics?
 
+## By: Auriel M.V. Fournier
+
 One common misconception of statistics is that we can make precise predictions and that once we do that is how that event will happen. There are exceptions of this, of course, but most times in statistics there is error associated with a prediction. That is there some range of values where we predict something may occur. 
 
 For instance we predict a given city in Quebec will receive 100 cm of snow this year plus or minus 20 cm. This means that we predict that city will receive between 80 and 120 cm of snow. When we are talking about something like weather prediction this uncertainty in our prediction might make a lot of sense. We all know how variable weather can be, I grew up around the Great Lakes and the weather can change at the drop of a hat. When we start to predict other things the error can sometimes cause unease. 
