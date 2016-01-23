@@ -1,14 +1,8 @@
-# Hunting and statistics
+# World Wetlands Day History Lesson: Waterfowl and statistics
 
 By: Auriel Fournier
 
-Its hard to draw me into arguments on social media but if you want to the best way is to try and talk about how hunters are ruining science, or how non-hunters are the only ones that contribute to the conservation and management of wildlife. 
-
-The second way is to dismiss statistics.
-
-These are two subjects that come together perfectly to celebrate #WorldWetlandsDay. Wetlands are so important, and one of the reasons that we have many of them that we do today in North America is because of hunting, because of statistics, because of people who care, a lot, about migratory birds. 
-
-So birds, wetlands, hunting, statistics, all my favorite things. This is gonna be great!
+Its World Wetlands Day, and while I spend most of all of my days thinking about wetlands and the birds that live within them, I realize most people don't. But today we are going to dive into the two things that I think are oftn misunderstood about wetlands. The role that hunting and statistics have played in wetland conservation in North America. Wetlands are so important, and one of the reasons that we have many of them that we do today in North America is because of hunting, because of statistics, because of people who care, a lot, about migratory birds. So birds, wetlands, hunting, statistics, all my favorite things. This is gonna be great!
 
 Waterfowl include many species of ducks and geese and swans. These are typically large migratory birds, many of which are also game species. For many decades researchers in Canada and the U.S. have ben banding waterfowl during the breeding season to study their migration. They do this because some of these banded birds will be harvested, and when they are, the hunters will hopefully report the band number, and where they killed it. This helps us to understand how birds move at a continental level. For non-game species the recapture rate (the rate at which birds which are banded are encountered for a second time) is very low, like less then one percent low.
 
@@ -20,16 +14,7 @@ We can use statistical models called 'known fate' to model the population. These
 
 These kinds of studies can be done at the local scale. For instance, the past few months I've been working with Canada Goose data looking at the population of resident Canada Geese in Arkansas. We have banding data for 10 years from several locations across the state, we also have recapture information (birds who were banded one year and captured the next year), and data from hunted birds from across the state. We can use this data to estimate the size of the resident Canada goose population in Arkansas (resident Canada geese are geese who do not migrate, [[difference between resident and migratory geese](https://www.allaboutbirds.org/canada-goose-resident-vs-migratory/)].     
 
-So wetlands, how does this kind of stuff have anything to do with wetlands? 
+When you apply these methods at the continental scale you get the methods of how we have flyways, how we determine bag limits and hunting seasons, and how we think about bird migration. Back in the (decades) waterfowl populations were low, we started 
 
-Good question. 
+Wetlands were lost at a huge rate (~70% in settled areas of Canada, similar rates across much of the U.S.) which makes the conservation of the ones we do have really important. Many people cared about this, and one big player was the hunting community and also the conservation community (which are not mutually exclusive groups, even though some members of both try to be all exclusive). 
 
-wetlands clean water
-
-wetlands sequester carbon
-
-wetlands mitigate floods
-
-wetlands provide habitat for wildlife, including species which are economically, culturally and medically important
-
-wetlands were lost at a huge rate (~70% in settled areas of Canada, similar rates across much of the U.S.) which makes the conservation of the ones we do have really important. 
